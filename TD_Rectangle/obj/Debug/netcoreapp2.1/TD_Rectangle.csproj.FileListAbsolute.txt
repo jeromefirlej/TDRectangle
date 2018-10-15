@@ -1,0 +1,11 @@
+C:\Users\tinta\Documents\Visual Studio 2017\Projects\TD_Rectangle\TD_Rectangle\bin\Debug\netcoreapp2.1\TD_Rectangle.deps.json
+C:\Users\tinta\Documents\Visual Studio 2017\Projects\TD_Rectangle\TD_Rectangle\bin\Debug\netcoreapp2.1\TD_Rectangle.runtimeconfig.json
+C:\Users\tinta\Documents\Visual Studio 2017\Projects\TD_Rectangle\TD_Rectangle\bin\Debug\netcoreapp2.1\TD_Rectangle.runtimeconfig.dev.json
+C:\Users\tinta\Documents\Visual Studio 2017\Projects\TD_Rectangle\TD_Rectangle\bin\Debug\netcoreapp2.1\TD_Rectangle.dll
+C:\Users\tinta\Documents\Visual Studio 2017\Projects\TD_Rectangle\TD_Rectangle\bin\Debug\netcoreapp2.1\TD_Rectangle.pdb
+C:\Users\tinta\Documents\Visual Studio 2017\Projects\TD_Rectangle\TD_Rectangle\obj\Debug\netcoreapp2.1\TD_Rectangle.csprojAssemblyReference.cache
+C:\Users\tinta\Documents\Visual Studio 2017\Projects\TD_Rectangle\TD_Rectangle\obj\Debug\netcoreapp2.1\TD_Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\tinta\Documents\Visual Studio 2017\Projects\TD_Rectangle\TD_Rectangle\obj\Debug\netcoreapp2.1\TD_Rectangle.AssemblyInfoInputs.cache
+C:\Users\tinta\Documents\Visual Studio 2017\Projects\TD_Rectangle\TD_Rectangle\obj\Debug\netcoreapp2.1\TD_Rectangle.AssemblyInfo.cs
+C:\Users\tinta\Documents\Visual Studio 2017\Projects\TD_Rectangle\TD_Rectangle\obj\Debug\netcoreapp2.1\TD_Rectangle.dll
+C:\Users\tinta\Documents\Visual Studio 2017\Projects\TD_Rectangle\TD_Rectangle\obj\Debug\netcoreapp2.1\TD_Rectangle.pdb
